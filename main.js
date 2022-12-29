@@ -85,6 +85,9 @@
 // console.log(sortTheArray(['b',6,'a','q',7,2]));
 
 
+
+// EX5
+
 // // Imagine the supplied array is like a pack of cards. Write a function to shuffle this array into a completely new and entirely random order, much like shuffling a pack of cards.
 // function shuffle(array) {
 //     let temp;
@@ -102,6 +105,9 @@
 // console.log(shuffle([10,12,15,1,8,900,878]));
 
 
+
+// EX6
+
 // What will be the output of this function?
 // const someArray = [1,2,3,4,5];
 // for (var i = 0; i < someArray.length; i++) {
@@ -109,6 +115,7 @@
 //         console.log("index: " + i + ", element: " + someArray[i])
 //     }, 1000)
 // }
+
 
 
 // EX7
